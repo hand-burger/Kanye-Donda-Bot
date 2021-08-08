@@ -1,5 +1,5 @@
 # About
- This is a Python web scraper bot to check the release status of Donda by Kanye West using the python requests library
+ This is a Python web scraper bot to check the release status of Donda by Kanye West using the python requests library which runs in the command line.
 <h2> Required Python packages</h2>
  <li>Requests
  <li>Smtplib (if given an error when trying to install it is probably already installed since it comes with Python3 by default)
