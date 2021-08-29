@@ -11,6 +11,6 @@
  * Smtplib (if given an error when trying to install it is probably already installed since it comes with Python3 by default)
  * Time
  ## How to run the program
- * First, to run the program download the donda_bot.py file
- * Next, navigate to the location of the file in your file explorer and open a terminal in that directory
+ * First, to run the program download the donda_bot.py file,
+ * Navigate to the location of the file in your file explorer and open a terminal in that directory
  * Now run the program by using the following command `python3 "donda_bot.py"`
