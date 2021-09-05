@@ -2,7 +2,6 @@
  This is a Python web scraper bot to check and notify the release status of Donda by Kanye West using the python requests library which runs in the command line.
  Sadly, it does need to constantly run in order to always be checking, but idk how else to do it 🤷
  
- 
  Once/if the bot ever finds that the album has dropped, it will email you that it has been published
  
  (08/29/21) Now that it has dropped, this is useless, but it works!
